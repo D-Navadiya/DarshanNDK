@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Darshan
 - 👀 I’m interested in JavaScript, TypeScript, React and React Native
-- 🌱 I’m currently learning to perfect the above
+- 🌱 I’m currently looking to perfect the above
 - 📫 Reach me - dnavadiya.pro@gmail.com
 
 <!---
